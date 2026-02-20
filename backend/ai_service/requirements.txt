@@ -1,0 +1,10 @@
+# ResumeIQ — Python AI Service Dependencies
+# Install: pip install -r requirements.txt
+
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+sentence-transformers==3.3.1
+scikit-learn==1.6.1
+numpy==2.2.2
+pydantic==2.10.5
+keybert==0.8.5
